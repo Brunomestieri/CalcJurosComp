@@ -12,7 +12,7 @@ rend = dep*(1+porcento)**prazo
 print("=======================================================\n")
 
 print("Valor depositado: R$", valorDeposito)
-print("Taxa de juros aplicada: ", porcento, "%")
+print("Taxa de juros aplicada: ", taxa, "%")
 print("Prazo da aplicação: ",prazo, "vezes\n")
 
 print("========================================================\n")
